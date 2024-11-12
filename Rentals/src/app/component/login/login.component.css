@@ -1,0 +1,17 @@
+.mybg{
+    background-image: url('/carbg.jpg');
+    height: 700px;
+    background-size: cover;
+}
+form{
+    height: 260px;
+    width: 330px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding:20px;
+    margin-top: 100px;
+    margin-left:50px
+}
+.lo{
+    margin-top: 1px;
+}
